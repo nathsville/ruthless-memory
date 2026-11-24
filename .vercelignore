@@ -1,0 +1,14 @@
+node_modules
+dist
+.playwright-mcp
+.taste-skill
+.opencode
+opencode.json
+opencode.jsonc
+*.mp4
+*.webm
+*.mov
+*.tsbuildinfo
+.env*
+public/images/audio-compact-disc.png
+public/_redirects
